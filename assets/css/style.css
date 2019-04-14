@@ -1,0 +1,19 @@
+  h3{
+      color: #FFF;
+  }
+  .header {
+    padding: 60x;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 15px;
+  }
+  html, body {
+    height: 100%;
+  }
+  body{
+    background: url(../images/tracks.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
